@@ -71,3 +71,13 @@ header {
     display: none;
   }
 }
+
+.scroll-button {
+  color: white;
+  bottom: 17px;
+  right: 20px;
+  position: fixed;
+  background-color: #101d42;
+  width: 100px;
+  border-radius: 20px ;
+}
